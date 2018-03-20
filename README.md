@@ -6,4 +6,6 @@ kaggle competitions
 
 - Jigsaw Toxic Comment Classification [Jupyter notebook](https://github.com/Nick7hill/kaggle/blob/master/toxic_comment_classification/toxic.ipynb)
   - requirements include keras ,nltk , wordcloud, sklearn, numpy, pandas
-> will be updated with new links of pretrained model file and glove embedding matrix file links 
+
+
+
