@@ -1,3 +1,4 @@
 ### Adtracking Fraud Detection
 This dataset has a massive size, we will first have a look at the first million rows of the dataset
-the first submission has been made on baseline of random forest, will try out new feature engineering and use tried and tested models of gbm , xgboost
+Submission made using light gbm and feature engineering adapted from ![https://www.kaggle.com/aharless/try-pranav-s-r-lgbm-in-python/code]
+will tune hyperparameters and look for newer features and try ensemble with different models in the future
